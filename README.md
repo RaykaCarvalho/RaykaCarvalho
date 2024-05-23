@@ -1,14 +1,8 @@
-🩷 Estudante de Gestão de TI, Universidade Santo Amaro - SP
-
-🐻‍❄️ Apaixonada por programação
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaykaCarvalho&anuraghazra&show_icons=true&theme=rose)
-
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="40" alt="JavaScript icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="40" alt="JavaScript icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="40" alt="JavaScript icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="40" alt="JavaScript icon">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="40" alt="JavaScript icon"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="40" alt="JavaScript icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="40" alt="JavaScript icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="40" alt="JavaScript icon">
 
 </div>
-
 
 <div>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
@@ -17,9 +11,17 @@
 
 </div>
           
-<div class="image-container">
 
-  <img src="https://i.pinimg.com/originals/8f/ec/fc/8fecfcd8839c17ea3e61a34b40d2ee32.gif" alt="giffofo" width="200" height="150">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaykaCarvalho&anuraghazra&show_icons=true&theme=rose)
+
+
+
+
+
+          
+
+ <div class="image-container"><img src="https://i.pinimg.com/originals/8f/ec/fc/8fecfcd8839c17ea3e61a34b40d2ee32.gif" alt="giffofo" width="200" height="150">
 </div>
 
           
