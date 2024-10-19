@@ -36,9 +36,7 @@
 
   <br />
 
-  <div class="image-container"><img src="https://i.pinimg.com/originals/8f/ec/fc/8fecfcd8839c17ea3e61a34b40d2ee32.gif" alt="Giffofo" width="200" height="150"></div>
-
+  
 </div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
