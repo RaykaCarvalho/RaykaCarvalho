@@ -1,13 +1,4 @@
-<div align="center">
-  <h1>RaykaCarvalho</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RaykaCarvalho&show_icons=true&theme=rose" alt="Estatísticas do GitHub"/>
-
-  <br />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaykaCarvalho&layout=compact&langs_count=6&theme=rose"/>
-
-  <br />
 
   <h2>Entre em contato</h2>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
