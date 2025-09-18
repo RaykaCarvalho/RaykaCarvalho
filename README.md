@@ -1,33 +1,42 @@
+# 💫 Olá, eu sou a Rayka!
 
+Seja muito bem-vindo(a) ao meu espaço no GitHub!  
+Aqui você vai encontrar projetos e ideias voltadas para **Gestão de Projetos**, **DevOps** e boas práticas de colaboração 💼🚀
 
-  <h2>Entre em contato</h2>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/raykacarvalhoo/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/raykacarvalhoo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://outlook.live.com/mail/0/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook">
-  </a>
+---
 
-  <br />
+## 📬 Entre em contato comigo
 
-  <h2>Minhas Habilidades</h2>
-  <div class="skills-container">
-    <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="40" alt="Ícone JavaScript"> 
-    <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="40" alt="Ícone CSS3">
-    <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="40" alt="Ícone HTML5">
-    <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="40" alt="Ícone Python">
-    <img class="skill-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="40" alt="Ícone PHP"/>
-  </div>
+Vamos conversar? Estou sempre aberta a novas conexões!
 
-  <br />
+- 📧 **E-mail pessoal:** [Raykamichelle@hotmail.com](mailto:Raykamichelle@hotmail.com)  
+- 📧 **E-mail profissional:** [Carvalhorayka@gmail.com](mailto:Carvalhorayka@gmail.com)  
+- 📱 **Telefone / WhatsApp:** +55 11 99388-0712  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/raykacarvalhoo](#)  
+- 📸 **Instagram:** [https://www.instagram.com/raykacarvalhoo](#)
 
-  
-</div>
+---
 
+## 🛠️ Minhas Especialidades
 
+✨ **Gestão de Projetos**  
+- Planejamento estratégico  
+- Metodologias ágeis (Scrum, Kanban)  
+- Comunicação entre times e stakeholders  
+
+⚙️ **DevOps**  
+- Integração contínua (CI) e entrega contínua (CD)  
+- Monitoramento e automação de processos  
+- Cultura de colaboração entre Dev e Ops  
+
+---
+
+## 🎨 Sobre mim
+
+👩‍💼 Apaixonada por organização, eficiência e pessoas.  
+📚 Sempre aprendendo algo novo para melhorar processos e entregar valor.  
+🌻 Acredito que tecnologia é feita por e para pessoas — e que empatia é uma ferramenta poderosa.
+
+---
+
+> ✨ “Não é sobre fazer mais, é sobre fazer melhor.” – Rayka
